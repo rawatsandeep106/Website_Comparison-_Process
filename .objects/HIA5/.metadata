@@ -1,0 +1,11 @@
+﻿{
+  "Id": "HIA5uzSCSkW6PzLSohYloQ",
+  "Reference": "nna5akmu-0WkQFxjajtyQA/HIA5uzSCSkW6PzLSohYloQ",
+  "Name": "NewApplication(1)",
+  "Type": "App",
+  "Created": "2020-07-07T10:43:02.193515Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=20.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2020-07-07T10:43:02.193515Z"
+}

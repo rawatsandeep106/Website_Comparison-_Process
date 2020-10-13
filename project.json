@@ -1,0 +1,44 @@
+{
+  "name": "Website Comparison Process",
+  "description": "Compares the Text Data in 2 Websites",
+  "main": "Main.xaml",
+  "dependencies": {
+    "CoreHtmlToImage": "[1.0.6]",
+    "HtmlAgilityPack": "[1.11.24]",
+    "ImageTransform": "[1.0.0]",
+    "NReco.ImageGenerator": "[1.2.0]",
+    "NReco.PhantomJS": "[1.0.4]",
+    "TextComparison.Activities.Design": "[1.8.0]",
+    "UiPath.Excel.Activities": "[2.8.6]",
+    "UiPath.Mail.Activities": "[1.8.6]",
+    "UiPath.System.Activities": "[20.4.0]",
+    "UiPath.UIAutomation.Activities": "[20.4.2]",
+    "UiPath.WebAPI.Activities": "[1.4.5]",
+    "UiPathTeam.ImageComparison.Activities": "[2.1.0]"
+  },
+  "webServices": [],
+  "schemaVersion": "4.0",
+  "studioVersion": "20.4.2.0",
+  "projectVersion": "1.0.0",
+  "runtimeOptions": {
+    "autoDispose": false,
+    "isPausable": true,
+    "requiresUserInteraction": true,
+    "supportsPersistence": false,
+    "excludedLoggedData": [
+      "Private:*",
+      "*password*"
+    ],
+    "executionType": "Workflow"
+  },
+  "designOptions": {
+    "projectProfile": "Developement",
+    "outputType": "Process",
+    "libraryOptions": {
+      "includeOriginalXaml": false,
+      "privateWorkflows": []
+    },
+    "fileInfoCollection": []
+  },
+  "expressionLanguage": "VisualBasic"
+}
