@@ -2371,15 +2371,15 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Sanchit Gupta\\.nuget\\packages\\": {}
+    "C:\\Users\\User\\.nuget\\packages\\": {}
   },
   "project": {
     "restore": {
       "projectUniqueName": "Website Comparison Process",
       "projectName": "Website Comparison Process",
-      "projectPath": "D:\\Bot\\Website Comparison Process\\.local",
-      "packagesPath": "C:\\Users\\Sanchit Gupta\\.nuget\\packages\\",
-      "outputPath": "D:\\Bot\\Website Comparison Process\\.local"
+      "projectPath": "C:\\Users\\User\\Desktop\\Damco RPA Projects\\Website Comparison Process\\.local",
+      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\Damco RPA Projects\\Website Comparison Process\\.local"
     },
     "frameworks": {
       "net461": {
